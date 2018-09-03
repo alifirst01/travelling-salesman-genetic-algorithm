@@ -1,4 +1,4 @@
-# artificial-intelligence-travelling-salesman-problem
+# travelling-salesman-problem-using-genetic-algorithm
 Traveling Salesman problem is about finding the best route among all possible routes to cover n cities. It is an NP-hard optimization problem with large seach space.
 
 ## Genetic Algorithm

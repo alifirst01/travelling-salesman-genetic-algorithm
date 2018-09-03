@@ -5,7 +5,7 @@ Traveling Salesman problem is about finding the best route among all possible ro
 Genetic algorithm, a heuristic search algorithm is used to solve many search and optimization problems. For travelling salesman problem, a set of different selection techniques and fitness functions are applied to obtain the best route with maximum fitness.
 
 ### Cross Over Method
-PMX Operator is used to perform 1-point, 2-point crossover [1] 
+PMX Operator is used to perform 1-point, 2-point crossover [1]  
 ![image](https://user-images.githubusercontent.com/42689561/44969229-db19b500-af11-11e8-81f6-27865deccddd.png)
 
 ### Fitness Function
